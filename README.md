@@ -9,21 +9,20 @@
 - **Hobbies:** Playing the guitar 🎸, stargazing ⭐️, gaming 🎮, watching soccer ⚽️ and baseball ⚾️
   
 - **Goal:** To become a **Backend developer**
-  
+
 ### ⚙️ Tech Stack:
-- **Programming Languages:** `Python`, `Java`
+- **Programming Languages:** `Python`, `Java`, `C++`, `Golang`
   
 - **Web Frameworks:** `Spring`, `Django`
   
-- **Databases:** `PostgreSQL`, `Redis`
-  
-- **Version Control:** `Github`
+- **Databases:** `MySQL`, `PostgreSQL`, `Redis`
 
-- **Containerization:** `Docker`
+- **ETC:** `Docker`, `GCP`
 
 ### 📋 Experience
-- a 3-month internship experience as a backend developer at at [Lablup](https://github.com/lablup). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
+- a summer internship experience as a backend developer at at [Lablup](https://github.com/lablup) (2023.06 - 2023.08). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
 
+### Github States
 ![JinMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinmyeong&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmyeong&layout=compact&hide=jupyter%20notebook,SCSS,HTML,Ruby,CSS)](https://github.com/kimjinmyeong/github-readme-stats)
 
