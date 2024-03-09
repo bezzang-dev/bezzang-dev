@@ -32,4 +32,4 @@
 - [[Java] Compile Time과 Runtime의 차이](https://bezzang2.tistory.com/157)
 - [[이분 탐색] 프로그래머스 Level 3 입국심사 Java 풀이](https://bezzang2.tistory.com/156)
 <!-- BLOG-POST-LIST:END -->
-![JinMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![JinMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinMyeong&show_icons=true&theme=dracula)
