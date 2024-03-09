@@ -25,7 +25,7 @@
 - a 3-month internship experience as a backend developer at at [Lablup](https://github.com/lablup). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
 
 ![JinMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinmyeong&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmyeong&layout=compact)](https://github.com/kimjinmyeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmyeong&layout=compact?hide=JupyterNotebook,SCSS,HTML)](https://github.com/kimjinmyeong/github-readme-stats)
 
 ### 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
