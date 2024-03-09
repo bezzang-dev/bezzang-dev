@@ -34,4 +34,77 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+🌆 Daytime                1354 commits        ██████████░░░░░░░░░░░░░░░   40.70 % 
+🌃 Evening                965 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌙 Night                  901 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Tuesday                  557 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Wednesday                480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 576 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Friday                   272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Saturday                 386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   637 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kimjinmyeong/kimjinmyeong/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/03/2024 16:42:50 UTC
 <!--END_SECTION:waka-->
