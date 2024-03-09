@@ -1,0 +1,13 @@
+- name: Java
+  logo: java
+  url: https://www.oracle.com/en/java/
+  color: '#7FD6EA'
+  projects:
+    - url: https://github.com/kimjinmyeong/capstone-2023-40
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/kimjinmyeong/webchat-app
