@@ -23,3 +23,7 @@
 
 ### 📋 Experience
 - a 3-month internship experience as a backend developer at at [Lablup](https://github.com/lablup). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
+
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
