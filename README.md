@@ -39,9 +39,9 @@
 
 ### 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[DataStructure] Array List와 Linked List &lpar;+ 그냥 Array List 쓰세요&rpar;](https://bezzang2.tistory.com/163)
 - [[DataStructure] Array, Dynamic Array, Associative Array](https://bezzang2.tistory.com/162)
 - [[Spring] 스프링 액추에이터&lpar;Actuator&rpar;](https://bezzang2.tistory.com/161)
 - [[Tip] Github README에 내가 작성한 블로그 최신 글 가져오기](https://bezzang2.tistory.com/160)
 - [[Spring] 스프링 부트의 예외 처리 방식](https://bezzang2.tistory.com/159)
-- [[Java] Java에서 예외 처리](https://bezzang2.tistory.com/158)
 <!-- BLOG-POST-LIST:END -->
