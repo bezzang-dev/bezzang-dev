@@ -39,9 +39,9 @@
 
 ### 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] 인증과 권한 부여, Spring Security](https://bezzang2.tistory.com/169)
 - [[Spring] 서버 간 통신하기: WebClient](https://bezzang2.tistory.com/168)
 - [[Spring] 서버 간 통신하기: RestTemplate](https://bezzang2.tistory.com/167)
 - [[CS] 시간복잡도란](https://bezzang2.tistory.com/166)
 - [[DataStructure] Map과 Hash Table](https://bezzang2.tistory.com/165)
-- [[Study] 오픽노잼으로 OPIC을 공부해보자 &lpar;7가지 규칙, 4가지 카테고리, RP, 실전 팁, 서베이 토픽 고르기 등&rpar;](https://bezzang2.tistory.com/164)
 <!-- BLOG-POST-LIST:END -->
