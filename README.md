@@ -39,9 +39,9 @@
 
 ### 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] JWT](https://bezzang2.tistory.com/170)
 - [[Spring] 인증과 권한 부여, Spring Security](https://bezzang2.tistory.com/169)
 - [[Spring] 서버 간 통신하기: WebClient](https://bezzang2.tistory.com/168)
 - [[Spring] 서버 간 통신하기: RestTemplate](https://bezzang2.tistory.com/167)
 - [[CS] 시간복잡도란](https://bezzang2.tistory.com/166)
-- [[DataStructure] Map과 Hash Table](https://bezzang2.tistory.com/165)
 <!-- BLOG-POST-LIST:END -->
