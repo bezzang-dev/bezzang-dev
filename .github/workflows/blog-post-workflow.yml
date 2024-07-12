@@ -17,6 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           feed_list: "https://bezzang2.tistory.com/rss"
+          accept_header: "text/xml"
             
             
             
