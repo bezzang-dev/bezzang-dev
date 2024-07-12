@@ -17,8 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://bezzang2.tistory.com/rss"
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
-          accept_header: "text/xml"
-            
-            
-            
+          accept_header: "text/html"
