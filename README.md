@@ -29,7 +29,3 @@
 
 ### 📋 Experience
 - a summer internship experience as a backend developer at at [Lablup](https://github.com/lablup) (2023.06 - 2023.08). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
-
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
