@@ -25,6 +25,7 @@
 - **ETC:** ![Docker](https://img.shields.io/badge/Docker-blue.svg)
 , ![GCP](https://img.shields.io/badge/GCP-blue.svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmdkdlel)](https://solved.ac/kjmdkdlel/)
 
 ### 📋 Experience
 - a summer internship experience as a backend developer at at [Lablup](https://github.com/lablup) (2023.06 - 2023.08). ([Commits](https://github.com/lablup/backend.ai/commits?author=kimjinmyeong))
