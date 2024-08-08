@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&fontSize=90" />
+
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
