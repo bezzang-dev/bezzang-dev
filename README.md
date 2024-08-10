@@ -4,9 +4,9 @@
 
 <p align="center">
   <strong>Name:</strong> Jinmyeong Kim<br>
-  <strong>Country:</strong> South Korea <br>
-  <strong>University:</strong> Kookmin University, Major in Software Engineering<br>
-  <strong>Interest:</strong> I am currently interested in studying <strong>Spring MSA (Microservices Architecture)</strong>.
+  <strong>Introduce:</strong> Entry-level Backend Developer 🐣 <br>
+  <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering 💻 <br>
+  <strong>Interest:</strong> I am currently studying <strong>Spring MSA 🍃 (Microservices Architecture)</strong>
 </p>
 
 <h2 align="center">⚙️ Tech Stack</h2>
