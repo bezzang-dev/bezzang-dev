@@ -19,11 +19,6 @@
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<!-- Programming Languages -->
-<p align="center">
-  <strong>Programming Languages</strong>
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -36,16 +31,6 @@
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Web Frameworks -->
-<p align="center">
-  <strong>Web Frameworks</strong>
-</p>
-
-<table align="center">
-  <tr>
     <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="65" height="65" />
@@ -56,16 +41,6 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Databases -->
-<p align="center">
-  <strong>Databases</strong>
-</p>
-
-<table align="center">
-  <tr>
     <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
@@ -81,16 +56,6 @@
         <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- DevOps -->
-<p align="center">
-  <strong>DevOps</strong>
-</p>
-
-<table align="center">
-  <tr>
     <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
@@ -103,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2 align="center">🏃‍➡️ Stats</h2>
 <p align="center">
