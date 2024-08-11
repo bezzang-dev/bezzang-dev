@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff577f,100:7d8ef8&height=150&section=header" />
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
