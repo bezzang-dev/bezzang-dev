@@ -18,3 +18,5 @@ jobs:
         with:
           feed_list: "https://bezzang2.tistory.com/rss"
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          accept_header: "text/xml"
