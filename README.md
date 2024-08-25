@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary][Spring] Spring Cloud Gateway와 FeignClient를 같이 사용하면 발생할 수 있는 문제](https://bezzang2.tistory.com/220)
 - [[TIL] Kafka와 RabbitMq의 철학, 그리고 어떻게 철학을 달성했을까?](https://bezzang2.tistory.com/219)
 - [[Spring] Spring 모놀리틱 아키텍처에서와 MSA에서의 패키지 구조](https://bezzang2.tistory.com/217)
 - [[TIL] Redis 캐싱을 사용해야 할 때 주의해야 하는 점](https://bezzang2.tistory.com/216)
 - [[Database] CQRS와 분산 읽기/쓰기 DB 구성, 데이터 일관성 모델 &lpar;최종 일관성, 강력한 일관성&rpar;](https://bezzang2.tistory.com/215)
-- [[Spring] @Builder사용할 때 @AllArgsConstructor를 적용하면 왜 @NoArgsConstructor와 함께 쓰이지 못하는가?](https://bezzang2.tistory.com/214)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
