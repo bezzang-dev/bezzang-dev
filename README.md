@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary][Spring] 식별,비식별 관계? 관계의 방향? 외래 키의 주인?](https://bezzang2.tistory.com/222)
 - [[Diary] @SpringBootApplication의 @ComponentScan 범위](https://bezzang2.tistory.com/221)
 - [[Diary][Spring] Spring Cloud Gateway와 FeignClient를 같이 사용하면 발생할 수 있는 문제](https://bezzang2.tistory.com/220)
 - [[TIL] Kafka와 RabbitMq의 철학, 그리고 어떻게 철학을 달성했을까?](https://bezzang2.tistory.com/219)
 - [[Spring] Spring 모놀리틱 아키텍처에서와 MSA에서의 패키지 구조](https://bezzang2.tistory.com/217)
-- [[TIL] Redis 캐싱을 사용해야 할 때 주의해야 하는 점](https://bezzang2.tistory.com/216)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
