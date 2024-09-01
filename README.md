@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary][Spring Security] UserDetails를 어떻게 캐싱할까?](https://bezzang2.tistory.com/226)
 - [[Diary] Spring ORM에서는 N + 1을 항상 신경쓰자.](https://bezzang2.tistory.com/225)
 - [[TIL] DTO, Entity에서 Wrapper 클래스를 사용하는 이유](https://bezzang2.tistory.com/224)
 - [[Diary][Spring] Spring Security에서 Role과 Authority의 차이가 뭘까?](https://bezzang2.tistory.com/223)
 - [[Diary][Spring] 식별,비식별 관계? 관계의 방향? 외래 키의 주인?](https://bezzang2.tistory.com/222)
-- [[Diary] @SpringBootApplication의 @ComponentScan 범위](https://bezzang2.tistory.com/221)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
