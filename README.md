@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[PS] 백준 영화감독 숌 java 풀이](https://bezzang2.tistory.com/231)
+- [[Reflection] [우아콘2020] 수십억건에서 QUERYDSL 사용하기 - 일괄 Update 최적](https://bezzang2.tistory.com/230)
+- [[Reflection] [우아콘2020] 수십억건에서 QUERYDSL 사용하기 - Select 컬럼에 Entity 자제](https://bezzang2.tistory.com/229)
 - [[PS] 프로그래머스 스타 수열 java 풀이](https://bezzang2.tistory.com/228)
-- [백준 문자열 폭발 java 풀이](https://bezzang2.tistory.com/227)
-- [[Diary][Spring Security] UserDetails를 어떻게 캐싱할까?](https://bezzang2.tistory.com/226)
-- [[Diary] Spring ORM에서는 N + 1을 항상 신경쓰자.](https://bezzang2.tistory.com/225)
-- [[TIL] DTO, Entity에서 Wrapper 클래스를 사용하는 이유](https://bezzang2.tistory.com/224)
+- [[PS] 백준 문자열 폭발 java 풀이](https://bezzang2.tistory.com/227)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
