@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL][Spring] Spring Webflux의 Spring Security &lpar;@EnableWebFluxSecurity&rpar;, ReactiveSecurityContextHolder](https://bezzang2.tistory.com/237)
 - [[PS] 백준 1766 문제집 java 풀이](https://bezzang2.tistory.com/236)
 - [[Reflection] ㄷㄷㄷ: Domain Driven Design과 적용 사례공유 / if&lpar;kakao&rpar;2022](https://bezzang2.tistory.com/234)
 - [[Database] 분산 트랜잭션과 2PC, SAGA 패턴](https://bezzang2.tistory.com/233)
 - [[Diary] N + 1 문제 해결을 위한 @EntityGraph를 사용할 때 주의할 점](https://bezzang2.tistory.com/232)
-- [[PS] 백준 영화감독 숌 java 풀이](https://bezzang2.tistory.com/231)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
