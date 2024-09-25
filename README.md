@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary][Spring] Spring Cloud Gateway에 인가의 책임을 부여해볼까?](https://bezzang2.tistory.com/241)
 - [[PS] 백준 가장 긴 바이토닉 부분 수열 java 풀이](https://bezzang2.tistory.com/240)
 - [[Database] 캐시 압력&lpar;Cache Pressure&rpar;](https://bezzang2.tistory.com/239)
 - [[Diary][Spring] Spring Webflux의 WebFilter는 자동으로 등록됩니다. &lpar;Security Filter Chain에 등록하면 발생할 수 있는 문제&rpar;](https://bezzang2.tistory.com/238)
 - [[TIL][Spring] Spring Webflux의 Spring Security &lpar;@EnableWebFluxSecurity&rpar;, ReactiveSecurityContextHolder](https://bezzang2.tistory.com/237)
-- [[PS] 백준 1766 문제집 java 풀이](https://bezzang2.tistory.com/236)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
