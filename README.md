@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[PS] 프로그래머스 level 2 마법의 엘레베이터 java 풀이](https://bezzang2.tistory.com/247)
 - [[PS] 백준 14940 쉬운 최단거리 java 풀이 &lpar;자꾸 3%에서 틀리네&rpar;](https://bezzang2.tistory.com/246)
 - [[Diary][Spring] Spring Data Cassandra에서 @CreatedDate가 안 되는 문제 해결 &lpar;Spring Data는 이 데이터가 새 데이터인지 모른다.&rpar;](https://bezzang2.tistory.com/245)
 - [[TIL] Spring Data Cassandra와 Spring Data JPA의 차이? &lpar;NoSQL과 RDBMS의 차이&rpar;](https://bezzang2.tistory.com/244)
 - [[Diary][Spring] Spring에서 Module에 BaseEntity를 추가하면, @EntityListeners&lpar;AuditingEntityListener.class&rpar;가 잘 되나?](https://bezzang2.tistory.com/243)
-- [[PS] 백준 18870 좌표 압축 java 풀이](https://bezzang2.tistory.com/242)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
