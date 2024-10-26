@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary] 300만 데이터 전체 조회 성능 개선기 &lpar;projection, 테이블 설계&rpar;](https://bezzang2.tistory.com/253)
 - [[Diary][Spring]GitHub Actions로 단위 테스트 환경 구성하기 &lpar;Github Service Container&rpar;](https://bezzang2.tistory.com/252)
 - [[PS] 프로그래머스 [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지 java 풀이 &lpar;14번에서 틀린 이유&rpar;](https://bezzang2.tistory.com/251)
 - [[Diary] Apache Cassandra에서 MongoDB 전환기](https://bezzang2.tistory.com/250)
 - [[Reflection] Kafka를 활용한 이벤트 기반 아키텍처 구축 #우아콘2023 #우아한형제들](https://bezzang2.tistory.com/249)
-- [[Diary] Domain Driven Design에서 Spring Data Repository 의존성 역전하기](https://bezzang2.tistory.com/248)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
