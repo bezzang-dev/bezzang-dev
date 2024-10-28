@@ -12,10 +12,10 @@
 <h2 align="center">🍃 Spring Study Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=the-survey-revision&theme=dark)](https://github.com/kimjinmyeong/the-survey-revision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=pickple-backend&theme=dark)](https://github.com/pickple-ecommerce/backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=spring-cloud-product-service&theme=dark
 )](https://github.com/kimjinmyeong/spring-cloud-product-service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=spring-security-session-auth&theme=dark)](https://github.com/kimjinmyeong/spring-security-session-auth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=spring-simple-product-search&theme=dark)](https://github.com/kimjinmyeong/spring-simple-product-search)
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
