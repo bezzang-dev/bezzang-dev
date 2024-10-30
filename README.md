@@ -2,11 +2,18 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<p align="center">
+<p align="left">
   <strong>Name:</strong> Jinmyeong Kim<br>
   <strong>Introduce:</strong> Entry-level Backend Developer 🐣 <br>
   <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering 💻 <br>
-  <strong>Interest:</strong> I am currently studying <strong>Spring MSA 🍃 (Microservices Architecture)</strong>
+  <strong>Strengths:</strong>
+    
+- Collaborative Teammate: Striving to create a comfortable work environment for colleagues through empathy, clear communication, and proactive support.
+
+- Concurrency Problem-Solver: Skilled in addressing concurrency challenges by leveraging in-depth knowledge of RDBMS lock mechanisms and transaction behavior.
+
+- MSA Development & Deployment Expertise: Experienced in event-driven MSA backend development and AWS infrastructure deployment.
+
 </p>
 
 <h2 align="center">🍃 Spring Study Projects</h2>
