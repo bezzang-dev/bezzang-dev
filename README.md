@@ -6,14 +6,7 @@
   <strong>Name:</strong> Jinmyeong Kim<br>
   <strong>Introduce:</strong> Entry-level Backend Developer 🐣 <br>
   <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering 💻 <br>
-  <strong>Interests:</strong>
-
-- Java Spring Web Backend Development: Currently advancing my skills in web backend development using the Java Spring Framework.
-
-- Concurrency Problem Solution: Interested in addressing concurrency challenges.
-
-- MSA Development: Developing my knowledge in event-driven MSA backend development.
-
+  <strong>Interests:</strong> Java Spring Web Backend Development: Currently advancing my skills in web backend development using the Java Spring Framework.
 </p>
 
 <h2 align="center">🍃 Spring Study Projects</h2>
