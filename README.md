@@ -72,11 +72,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Diary] INSERT 동작에 동시성 문제 해결 일대기](https://bezzang2.tistory.com/256)
 - [[PS][PCCP 기출문제] 3번 / 충돌위험 찾기 java 풀이 &lpar;+조건문 없음, 64 lines&rpar;](https://bezzang2.tistory.com/255)
 - [[PS] 백준 1107 리모컨 java 풀이](https://bezzang2.tistory.com/254)
 - [[Diary] 300만 데이터 전체 조회 성능 개선기 &lpar;projection, 테이블 설계&rpar;](https://bezzang2.tistory.com/253)
 - [[Diary][Spring]GitHub Actions로 단위 테스트 환경 구성하기 &lpar;Github Service Container&rpar;](https://bezzang2.tistory.com/252)
-- [[PS] 프로그래머스 [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지 java 풀이 &lpar;14번에서 틀린 이유&rpar;](https://bezzang2.tistory.com/251)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
