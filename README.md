@@ -76,7 +76,7 @@
 - [[Diary] INSERT 동작에 동시성 문제 해결 일대기](https://bezzang2.tistory.com/256)
 - [[PS][PCCP 기출문제] 3번 / 충돌위험 찾기 java 풀이 &lpar;+조건문 없음, 64 lines&rpar;](https://bezzang2.tistory.com/255)
 - [[PS] 백준 1107 리모컨 java 풀이](https://bezzang2.tistory.com/254)
-- [[Diary] 300만 데이터 전체 조회 성능 개선기 &lpar;projection, 테이블 설계&rpar;](https://bezzang2.tistory.com/253)
+- [[Diary] 300만 데이터 전체 조회 성능 개선기 &lpar;projection, 테이블 최적화&rpar;](https://bezzang2.tistory.com/253)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
