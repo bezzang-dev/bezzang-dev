@@ -69,6 +69,13 @@
   </tr>
 </table>
 
+
+<h2 align="center"> 🎉 Open Source Contributes </h2>
+
+- https://github.com/spring-projects/spring-data-jpa/pull/3681
+- https://github.com/gyoogle/tech-interview-for-developer/pull/179
+- <a href="https://github.com/lablup/backend.ai/commits?author=kimjinmyeong">Lablup</a>
+
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
@@ -84,7 +91,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8148767-fd56-48dd-b572-553270fc0a0f" alt="Internship Image"><br>
   A summer internship experience as a backend developer at <a href="https://github.com/lablup">Lablup</a> (2023.06 - 2023.08). 
-  (<a href="https://github.com/lablup/backend.ai/commits?author=kimjinmyeong">Commits</a>)
 </p>
 
 <h2 align="center">🏃‍➡️ Stats</h2>
