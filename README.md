@@ -79,11 +79,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[PS] 코드트리 나무 타이쿤 java 풀이](https://bezzang2.tistory.com/260)
 - [[Diary] 신입 개발자의 오픈소스 컨트리뷰트 해보기 - Spring Data JPA](https://bezzang2.tistory.com/259)
 - [[Database] PostgreSQL의 데드 튜플 문제](https://bezzang2.tistory.com/258)
 - [[Diary] Elastic Search로 100만 데이터 검색 속도 향상시키기](https://bezzang2.tistory.com/257)
 - [[Diary] INSERT 동작에 동시성 문제 해결 일대기](https://bezzang2.tistory.com/256)
-- [[PS][PCCP 기출문제] 3번 / 충돌위험 찾기 java 풀이 &lpar;+조건문 없음, 64 lines&rpar;](https://bezzang2.tistory.com/255)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
