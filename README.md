@@ -79,11 +79,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Network] 프로토콜과 OSI 7 layer, 그리고 네트워크의 기능들이 어떻게 구조화 돼서 동작하는지](https://bezzang2.tistory.com/263)
 - [[PS] 백준 오아시스 재결합 Java 풀이 &lpar;+모노톤 스택에 관하여&rpar;](https://bezzang2.tistory.com/262)
 - [[PS] 백준 도전 숫자왕 java 풀이 &lpar;비트마스킹으로 모든 경우의 수 찾기&rpar;](https://bezzang2.tistory.com/261)
 - [[PS] 코드트리 나무 타이쿤 java 풀이](https://bezzang2.tistory.com/260)
 - [[Diary] 신입 개발자의 오픈소스 컨트리뷰트 해보기 - Spring Data JPA](https://bezzang2.tistory.com/259)
-- [[Database] PostgreSQL의 데드 튜플 문제](https://bezzang2.tistory.com/258)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
