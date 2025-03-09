@@ -11,11 +11,11 @@
 
 <h2 align="center">🍃 Spring Study Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=the-survey-revision&theme=dark)](https://github.com/kimjinmyeong/the-survey-revision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=pickple-backend&theme=dark)](https://github.com/kimjinmyeong/pickple-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=spring-cloud-product-service&theme=dark
-)](https://github.com/kimjinmyeong/spring-cloud-product-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjinmyeong&repo=spring-security-session-auth&theme=dark)](https://github.com/kimjinmyeong/spring-security-session-auth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bezzang-dev&repo=the-survey-revision&theme=dark)](https://github.com/bezzang-dev/the-survey-revision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bezzang-dev&repo=pickple-backend&theme=dark)](https://github.com/bezzang-dev/pickple-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bezzang-dev&repo=spring-cloud-product-service&theme=dark
+)](https://github.com/bezzang-dev/spring-cloud-product-service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bezzang-dev&repo=spring-security-session-auth&theme=dark)](https://github.com/bezzang-dev/spring-security-session-auth)
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
@@ -73,7 +73,7 @@
 <h2 align="center"> 🎉 Open Source Contributes </h2>
 
 - https://github.com/spring-projects/spring-data-jpa/pull/3681
-- <a href="https://github.com/lablup/backend.ai/commits?author=kimjinmyeong">lablup/backend.ai</a>
+- <a href="https://github.com/lablup/backend.ai/commits?author=bezzang-dev">lablup/backend.ai</a>
 - https://github.com/gyoogle/tech-interview-for-developer/pull/179
 
 <h2 align="center">📚 Recent Blog Posts </h2>
@@ -95,7 +95,7 @@
 
 <h2 align="center">🏃‍➡️ Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjinmyeong&show_icons=true&theme=ambient_gradient" alt="kimjinmyeong's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=bezzang-dev&show_icons=true&theme=ambient_gradient" alt="bezzang-dev's GitHub stats">
   <a href="https://solved.ac/kjmdkdlel/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmdkdlel" alt="Solved.ac Profile"></a>
 </p>
 
