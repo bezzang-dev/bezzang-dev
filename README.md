@@ -73,6 +73,7 @@
 <h2 align="center"> 🎉 Open Source Contributes </h2>
 
 - https://github.com/spring-projects/spring-data-jpa/pull/3681
+- https://github.com/spring-projects/spring-data-redis/pull/3058
 - <a href="https://github.com/lablup/backend.ai/commits?author=bezzang-dev">lablup/backend.ai</a>
 - https://github.com/gyoogle/tech-interview-for-developer/pull/179
 
