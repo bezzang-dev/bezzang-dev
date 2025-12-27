@@ -80,11 +80,11 @@
 <h2 align="center">📚 Recent Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [생성형 시대의 개발자: AI 의존성을 이기고 핵심 역량을 지키는 법](https://bezzang2.tistory.com/266)
 - [[PS] 백준 9367 관리 난항 Java 풀이 &lpar;+ 25%에서 계속 틀린 이유, Java의 정수와 소수의 차이&rpar;](https://bezzang2.tistory.com/265)
 - [[Network] 소켓 식별 방식과 레이어 별 데이터 정보 &lpar;segment, datagram, packet, frame, payload, multiplexing, demultiplexing&rpar;](https://bezzang2.tistory.com/264)
 - [[Network] 프로토콜과 OSI 7 layer, 그리고 네트워크의 기능들이 어떻게 구조화 돼서 동작하는지](https://bezzang2.tistory.com/263)
 - [[PS] 백준 오아시스 재결합 Java 풀이 &lpar;+모노톤 스택에 관하여&rpar;](https://bezzang2.tistory.com/262)
-- [[PS] 백준 도전 숫자왕 java 풀이 &lpar;비트마스킹으로 모든 경우의 수 찾기&rpar;](https://bezzang2.tistory.com/261)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">📋 Experience</h2>
